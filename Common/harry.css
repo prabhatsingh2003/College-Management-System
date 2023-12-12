@@ -1,0 +1,26 @@
+.ex{
+       border-style: solid;
+       border-color: blue;
+       border-width: 2px;
+       border-radius: 20px;
+       margin-inline: 600px;
+       padding: 2px 0px 2px 0px;
+       
+
+}
+
+.ex{
+       text-align: center;
+       background-color:red;
+}
+
+.ex1{
+       border-style: solid;
+       border-width: 4px;
+       border-color: chartreuse;
+       border-style:groove; 
+}
+
+.forver{
+       
+}
